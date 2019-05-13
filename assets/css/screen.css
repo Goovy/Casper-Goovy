@@ -283,6 +283,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .site-nav-right .search {
+    margin-right: 5px;
     color: #2e2e2e;
 }
 
