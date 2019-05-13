@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "2.10.0",
+    "name": "casper-goovy",
+    "description": "The default theme for blog.goovy.io. Beautiful, minimal and responsive.",
+    "demo": "https://blog.goovy.io",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=2.0.0",
         "ghost-api": "v2"
