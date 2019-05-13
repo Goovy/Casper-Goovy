@@ -373,11 +373,15 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
         padding-left: 0;
     }
     .site-nav-left {
+        display: flow-root;
         margin-right: 0;
         padding-left: 4vw;
     }
     .site-nav-right {
-        display: none;
+        /* display: none; */
+        display: flow;
+        align-items: left;
+        height: 40px;
     }
 }
 

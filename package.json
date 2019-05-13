@@ -2,7 +2,7 @@
     "name": "casper-goovy",
     "description": "The default theme for blog.goovy.io. Beautiful, minimal and responsive.",
     "demo": "https://blog.goovy.io",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "ghost": ">=2.0.0",
         "ghost-api": "v2"
